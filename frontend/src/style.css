@@ -1,0 +1,10 @@
+/* frontend/src/styles.css */
+
+.App {
+    text-align: center;
+  }
+  
+  input, textarea {
+    margin: 10px;
+  }
+  
